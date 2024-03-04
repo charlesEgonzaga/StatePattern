@@ -81,3 +81,7 @@ public class AccountTest(){
                               //account!". Call the toString() to show current balance and account number.
   }
 }
+
+![Capture](https://github.com/charlesEgonzaga/StatePattern/assets/142955651/65dfc9c9-75cd-4d99-8200-6b36bad859e7)
+
+
